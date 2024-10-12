@@ -1,3 +1,26 @@
+## mrpt_msgs (humble) - 0.5.0-1
+
+The packages in the `mrpt_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble mrpt_msgs --override-release-repository-push-url git@github.com:revyos-ros/mrpt_msgs-release.git` on `Sat, 12 Oct 2024 04:25:16 -0000`
+
+The `mrpt_msgs` package was released.
+
+Version of package(s) in repository `mrpt_msgs`:
+
+- upstream repository: https://github.com/mrpt-ros-pkg/mrpt_msgs.git
+- release repository: https://github.com/revyos-ros/mrpt_msgs-release.git
+- rosdistro version: `0.5.0-1`
+- old version: `0.4.7-1`
+- new version: `0.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mrpt_msgs (jazzy) - 0.4.7-4
 
 The packages in the `mrpt_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy mrpt_msgs --override-release-repository-push-url git@github.com:revyos-ros/mrpt_msgs-release` on `Thu, 20 Jun 2024 05:46:30 -0000`
